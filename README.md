@@ -2,7 +2,7 @@
 
 [![Imagem de capa](https://via.placeholder.com/1200x400)](https://github.com/luiscostalafc/lightningJS-streaming)
 
-Este é um projeto modelo que simula um serviço de streaming de vídeo, similar ao serviço da Sky, utilizando LightningJS e TypeScript. Nosso objetivo é fornecer um ponto de partida robusto para aprender e experimentar a criação de uma interface de usuário de TV moderna e responsiva.
+Este é um projeto modelo que simula um serviço de streaming de vídeo, utilizando LightningJS e TypeScript. Nosso objetivo é fornecer um ponto de partida robusto para aprender e experimentar a criação de uma interface de usuário de TV moderna e responsiva.
 
 ![GitHub](https://img.shields.io/github/license/luiscostalafc/lightningJS-streaming)
 ![GitHub stars](https://img.shields.io/github/stars/luiscostalafc/lightningJS-streaming)
