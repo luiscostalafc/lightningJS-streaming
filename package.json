@@ -3,7 +3,11 @@
   "description": "LightningTest",
   "scripts": {
     "prepare": "husky install",
-    "lint": "eslint . --ext .js,.ts --fix"
+    "lint": "eslint . --ext .js,.ts --fix",
+    "build": "lng build",
+    "watch": "lng watch",
+    "start": "lng serve",
+    "dev": "lng dev"
   },
   "dependencies": {
     "@lightningjs/sdk": "^5.3.2"

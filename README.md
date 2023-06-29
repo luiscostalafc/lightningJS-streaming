@@ -1,31 +1,68 @@
-# LightningTest
+# Projeto de Streaming com LightningJS ⚡️🎬
 
-## com.domain.app.LightningTest
+[![Imagem de capa](https://via.placeholder.com/1200x400)](https://github.com/luiscostalafc/lightningJS-streaming)
 
-### Getting started
+Este é um projeto modelo que simula um serviço de streaming de vídeo, similar ao serviço da Sky, utilizando LightningJS e TypeScript. Nosso objetivo é fornecer um ponto de partida robusto para aprender e experimentar a criação de uma interface de usuário de TV moderna e responsiva.
 
-> Before you follow the steps below, make sure you have the
-[Lightning-CLI](https://rdkcentral.github.io/Lightning-CLI/#/) installed _globally_ only your system
+![GitHub](https://img.shields.io/github/license/luiscostalafc/lightningJS-streaming)
+![GitHub stars](https://img.shields.io/github/stars/luiscostalafc/lightningJS-streaming)
 
-```
-npm install -g @lightningjs/cli
-```
+---
 
-#### Running the App
+## 📑 Índice
 
-1. Install the NPM dependencies by running `npm install`
+- [Projeto de Streaming com LightningJS ⚡️🎬](#projeto-de-streaming-com-lightningjs-️)
+  - [📑 Índice](#-índice)
+  - [📌 Visão Geral](#-visão-geral)
+  - [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas)
+  - [💾 Instalação e Uso](#-instalação-e-uso)
+  - [👥 Contribuindo](#-contribuindo)
+  - [📝 Licença](#-licença)
 
-2. Build the App using the _Lightning-CLI_ by running `lng build` inside the root of your project
+---
 
-3. Fire up a local webserver and open the App in a browser by running `lng serve` inside the root of your project
+## 📌 Visão Geral
 
-#### Developing the App
+A aplicação inclui uma tela inicial com um carrossel de filmes categorizados e um player de vídeo. Os dados são carregados de arquivos JSON e as imagens são geradas por placeholders. Ao navegar pelas categorias, você poderá selecionar e assistir a uma variedade de conteúdos de diferentes gêneros, incluindo filmes, séries e desenhos.
 
-During development you can use the **watcher** functionality of the _Lightning-CLI_.
+---
 
-- use `lng watch` to automatically _rebuild_ your App whenever you make a change in the `src` or  `static` folder
-- use `lng dev` to start the watcher and run a local webserver / open the App in a browser _at the same time_
+## 🚀 Tecnologias Utilizadas
 
-#### Documentation
+- [LightningJS](https://github.com/WebPlatformForEmbedded/Lightning)
+- [TypeScript](https://www.typescriptlang.org/)
 
-Use `lng docs` to open up the Lightning-SDK documentation.
+---
+
+## 💾 Instalação e Uso
+
+Para instalar e executar este projeto, siga os seguintes passos:
+
+1. Clone este repositório: `git clone https://github.com/luiscostalafc/lightningJS-streaming.git`
+2. Vá para o diretório do projeto: `cd lightningJS-streaming`
+3. Instale as dependências: `npm install`
+4. Inicie o projeto: `npm start`
+
+---
+
+## 👥 Contribuindo
+
+Para contribuir com este projeto, siga os seguintes passos:
+
+1. Fork este repositório.
+2. Crie uma nova branch com suas alterações: `git checkout -b minha-alteracao`
+3. Salve suas alterações e faça um commit com uma mensagem do que foi alterado: `git commit -m "descrição da alteração"`
+4. Envie suas alterações: `git push origin minha-alteracao`
+5. Envie sua solicitação de pull.
+
+---
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Feito com ❤️ por [Luis Costa](https://github.com/luiscostalafc)
+
+---
