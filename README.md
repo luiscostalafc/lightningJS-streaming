@@ -23,7 +23,7 @@ Este é um projeto modelo que simula um serviço de streaming de vídeo, utiliza
 
 ## 📌 Visão Geral
 
-A aplicação inclui uma tela inicial com um carrossel de filmes categorizados e um player de vídeo. Os dados são carregados de arquivos JSON e as imagens são geradas por placeholders. Ao navegar pelas categorias, você poderá selecionar e assistir a uma variedade de conteúdos de diferentes gêneros, incluindo filmes, séries e desenhos.
+A aplicação inclui uma tela inicial com um carrossel de filmes categorizados e um player de vídeo. Os dados são carregados de um mock e as imagens são geradas por placeholders. Ao navegar pelas categorias, você poderá selecionar e assistir a uma variedade de conteúdos de diferentes gêneros, incluindo filmes, séries e desenhos.
 
 ---
 
